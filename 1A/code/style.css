@@ -1,0 +1,53 @@
+#nav{
+    width:100%;
+    
+}
+
+.ht{
+    height:480px;
+    
+}
+
+.subheading{
+    font-size: 30px;
+    text-align: center;
+}
+
+.pinkbackground{
+    
+    background-color: #FF3B3f;
+}
+
+.bluebackground{
+    background-color: #CAEBF2;
+}
+
+.acvimg{
+    width:285px;
+    height:200px;
+}
+
+.contactusimg{
+    height:50px;
+    width:50px;
+    
+}
+
+#contactform{
+    width:100%;
+}
+
+#invalidname{
+    display:none;
+}
+
+#invalidemail{
+    display:none;
+}
+#invalidmobile{
+    display:none;
+}
+
+#searchsection{
+    height:400px;
+}
